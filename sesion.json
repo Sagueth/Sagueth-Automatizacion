@@ -1,0 +1,148 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AMNxLB8FI1l5CZlI4Wt-X8vLUR3uX3fOR9Nck3FFoKS5nbjcctHDl_aLi6_3BvAPDZQW5Q_DSg_QG5rEBwiKfbE",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1762195992.012501,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "CjbxMBT9ZxqKmAG_1LEmUIsNTOIT3BvkjszuvOP4.SIGEP-PRE-FRONT02",
+      "domain": "www.funcionpublica.gov.co",
+      "path": "/sigep-web",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "COOKIE_SUPPORT",
+      "value": "true",
+      "domain": "www1.funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1776053910.172215,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "GUEST_LANGUAGE_ID",
+      "value": "es_ES",
+      "domain": "www1.funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1778054220.437404,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1974342717.1746415515",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1746730394,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "88B57FF12ACAC82F7C1A9C49C0AF8EEB",
+      "domain": "www1.funcionpublica.gov.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_WWPEGTXY46",
+      "value": "GS2.1.s1746517166$o5$g1$t1746518222$j0$l0$h0",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1781078222.835908,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LFR_SESSION_STATE_418515",
+      "value": "1746518222942",
+      "domain": "www1.funcionpublica.gov.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "1733FD1DA5F4B89125D9D6FA34F686EB",
+      "domain": "www.funcionpublica.gov.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gat_gtag_UA_11142030_3",
+      "value": "1",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1746644054,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1762633515.1743284608",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1781203994.269568,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7NPBC77MDS",
+      "value": "GS2.1.s1746643994$o55$g0$t1746643996$j0$l0$h0",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1781203996.381678,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.funcionpublica.gov.co",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09AMNxLB8VC7-rFVuf0G6PbE-ATlkSWmYRjEXz3XZV7n0DFj2-XET-diYad7pjzxzk1mJWlk9iWi7xH4GdOG4PBoiU1DV3J9aDs9zeUDEwCXEtwcu6z2tQ_n90aGjDUY08"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "ZnBsczV2MTk2bDRoMg=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aALCi1uYRvTAGHxz9_3ePio4ZdPMo1b32zwKjy11Zg9Hb6tou-pa99Gj96eTTH1_iQKzYsLU"
+        }
+      ]
+    }
+  ]
+}
