@@ -1,5 +1,5 @@
-const axios = require('axios');
-const fs = require('fs');
+import axios from 'axios';
+import fs from 'fs';
 
 const API_KEY = 'AIzaSyDKIlvhfSR_eBvX3z65k0eKgAQiqZa2Ow8';  // 🔑 Reemplaza con tu clave de Google Cloud
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
@@ -345,6 +345,6 @@ async function verificarIdiomas(imagenPDF, lenguaje) {
         console.error('❌ Error al enviar a Gemini:', error.response?.data || error.message);
     }
 }
-    
 
-module.exports = { verificarSoportesVarios, verificarEducacionFormal, verificarExperienciaLaboral, verificarExperienciaLaboralDocente, verificarDocumentosAdicionales, verificarEducacionTrabajo, verificarIdiomas };
+
+export{ verificarSoportesVarios, verificarEducacionFormal, verificarExperienciaLaboral, verificarExperienciaLaboralDocente, verificarDocumentosAdicionales, verificarEducacionTrabajo, verificarIdiomas };

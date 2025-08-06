@@ -1,0 +1,98 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNCVoYA5r2zEqejgGRVQUjabc0jkarbNv5sfNXY0Z9Tx73gaZ370eEjNjkx-QjNDU8J4l6hDI8ZGsgcOBq8",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1769544170.324455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "qPUm01-luSvKcR1PKOlx8244HNrPDyOqQLVCqqzL.SIGEP-PRE-FRONT02",
+      "domain": "www.funcionpublica.gov.co",
+      "path": "/sigep-web",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "792124F83419AEE94944C99421B91E99",
+      "domain": "www.funcionpublica.gov.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1384193404.1753991914",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1754078571,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_11142030_3",
+      "value": "1",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1753992231,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7NPBC77MDS",
+      "value": "GS2.1.s1753991914$o9$g1$t1753992171$j60$l0$h0",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1788552171.368075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.231150683.1751994535",
+      "domain": ".funcionpublica.gov.co",
+      "path": "/",
+      "expires": 1788552171.369232,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.funcionpublica.gov.co",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09ANMylNDzWfXJQtCZs2DmSv2Hiiico_f2oL_2KyGGcTsKJ8-6z9afKt_uJrwcegPp-mH5DF4ErAXi5bmRudRGO0DWUvlg4mYx5adG41GVLCoKGFX0U9uM5rHwsJbgj73z"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MW9jMGQwNHdkNWo4cA=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAJ3Gg0Y0_JsFrC7H-PTYVmRJF_RKVOBLFTPmWTt1VxFYbaHGuGEZwy2bdlUJtBMymRBpG6s"
+        }
+      ]
+    }
+  ]
+}

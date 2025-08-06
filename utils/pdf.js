@@ -1,8 +1,10 @@
-const { PDFDocument, rgb } = require('pdf-lib');
-const fontkit = require('fontkit');
-const fs = require('fs');
-const path = require('path');
-const { time } = require('console');
+import { PDFDocument, rgb } from 'pdf-lib';
+import * as fontkit from 'fontkit';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function dividirTextoEnLineasAvanzado(texto, font, fontSize, maxWidth) {
     const palabras = texto.split(' ');
@@ -374,6 +376,8 @@ async function generarReportePDF(estadoHV, capturasTablas, datosPersona, soporte
 
 
 
-module.exports = {
-    generarReportePDF,
-};
+// module.exports = {
+//     generarReportePDF,
+// };
+
+export { generarReportePDF };

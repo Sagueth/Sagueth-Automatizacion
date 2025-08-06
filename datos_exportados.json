@@ -1,0 +1,105 @@
+[
+  {
+    "id": "71582060",
+    "tipoDocumento": "Cedula De Ciudadania",
+    "nombreCompleto": "Jose Gab Bermudez Pereira",
+    "fechaNacimiento": "",
+    "edad": "",
+    "genero": "",
+    "correoPersonal": "josegabriel.pereira@gmail.com",
+    "correoOficina": "jbermudez@sena.edu.co",
+    "telefonoResidencia": "+57604 6140721",
+    "celular": "3137666226",
+    "telefonoOficina": "+57604 6045760000 Ext. 42932",
+    "direccion": "CALLE 42  # 103 39 Interior 703 ",
+    "tipoZona": "URBANA",
+    "municipio": "MEDELLÍN",
+    "departamento": "ANTIOQUIA",
+    "pais": "COLOMBIA",
+    "claseLibreta": "SEGUNDA CLASE",
+    "numeroLibreta": "71582060",
+    "distritoMilitar": "55",
+    "educacionFormal": [
+      {
+        "institucion": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+        "titulo": "ECONOMISTA",
+        "pais": "COLOMBIA",
+        "fechaFin": "12/12/1986",
+        "fechaGrados": "12/12/1986"
+      },
+      {
+        "institucion": "SIN DATO",
+        "titulo": "BACHILLER",
+        "pais": "COLOMBIA",
+        "fechaFin": "18/12/1977",
+        "fechaGrados": "18/12/1977"
+      },
+      {
+        "institucion": "SIN DATO",
+        "titulo": "BASICA SECUNDARIA",
+        "pais": "COLOMBIA",
+        "fechaFin": "01/12/1975",
+        "fechaGrados": "01/12/1975"
+      }
+    ],
+    "educacionTrabajo": [
+      {
+        "institucion": "UNVERSIDAD DEL ROSARIO",
+        "curso": "DIPLOMADO EN APROBACIÓN Y USO DE LA TEGNOLOGIA OFFICE 365",
+        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "06/12/2021"
+      },
+      {
+        "institucion": "UNIVERSIDAD DE SANTANDER",
+        "curso": "DIPLOMADO EN ARQUITECTURA DE EXPEDIENTES ELECTRÓNICOS Y USO DE HERRAMIENTAS PARA SU IMPLEMENTACIÓN",
+        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "10/10/2021"
+      },
+      {
+        "institucion": "SENA",
+        "curso": "TECNICO EN PLANIFICACION PARA LA CREACION Y GESTION DE EMPRESAS",
+        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
+        "capacitacion": "MIXTA",
+        "fechaFin": "07/11/2006"
+      }
+    ],
+    "educacionIdiomas": [
+      {
+        "lenguaje": "INGLÉS",
+        "conversacion": "REGULAR",
+        "lectura": "REGULAR",
+        "redaccion": "REGULAR",
+        "nativa": false
+      }
+    ],
+    "experienciaLaboral": [
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la EntidadSERVICIO NACIONAL DE APRENDIZAJE",
+        "dependencia": "A NIVEL NACIONAL",
+        "cargo": "INSTRUCTOR",
+        "fechaIngreso": "01/02/2005",
+        "fechaFin": "Laborando Actualmente"
+      }
+    ],
+    "experienciaDocente": [
+      {
+        "institucion": "SERVICIO NACIONAL DE APRENDIZAJE-SENA-",
+        "nivel": "",
+        "area": "ECONOMIA, ADMINISTRACION, CONTADURIA Y AFINES",
+        "pais": "COLOMBIA",
+        "fechaIngreso": "01/02/2005",
+        "fechaFin": "Laborando Actualmente"
+      }
+    ],
+    "documentosAdicionales": [],
+    "logrosYManejoDeRecursos": [],
+    "publicaciones": [],
+    "evaluacionesDeDesempenno": [],
+    "premiosYReconocimientos": [],
+    "participacionEnProyectos": [],
+    "participacionEnCorporaciones": []
+  }
+]
