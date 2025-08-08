@@ -11,4 +11,5 @@ COPY . .
 RUN npm install
 
 # Comando por defecto (puedes modificar según el spec a ejecutar)
-CMD ["npx", "playwright", "test", "tests/validar.spec.ts", "--project=chromium"]
+CMD ["npm", "run", "start"]
+
