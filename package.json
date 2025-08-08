@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "ts-node src/server.ts",
-    "postinstall": "npx playwright install --with-deps"
+    "postinstall": "npx playwright install"
   },
   "keywords": [],
   "author": "",
