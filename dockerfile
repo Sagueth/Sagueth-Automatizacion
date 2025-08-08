@@ -11,4 +11,4 @@ COPY . .
 RUN npm install
 
 # Comando por defecto (puedes modificar según el spec a ejecutar)
-CMD ["node", "index.js"]  # Sin depender de la API
+CMD ["node", "keep-alive.js"]  # Sin depender de la API

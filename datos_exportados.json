@@ -1,75 +1,124 @@
 [
   {
-    "id": "71582060",
+    "id": "12747028",
     "tipoDocumento": "Cedula De Ciudadania",
-    "nombreCompleto": "Jose Gab Bermudez Pereira",
+    "nombreCompleto": "Jeovani Alexander Erazo Chamorro",
     "fechaNacimiento": "",
     "edad": "",
     "genero": "",
-    "correoPersonal": "josegabriel.pereira@gmail.com",
-    "correoOficina": "jbermudez@sena.edu.co",
-    "telefonoResidencia": "+57604 6140721",
-    "celular": "3137666226",
-    "telefonoOficina": "+57604 6045760000 Ext. 42932",
-    "direccion": "CALLE 42  # 103 39 Interior 703 ",
+    "correoPersonal": "accionlegal@outlook.cl",
+    "correoOficina": "",
+    "telefonoResidencia": "+57604 0000000",
+    "celular": "3172233609",
+    "telefonoOficina": "+57604  Ext. ",
+    "direccion": "CARRERA 67 B  # 48 C 7 ",
     "tipoZona": "URBANA",
     "municipio": "MEDELLÍN",
     "departamento": "ANTIOQUIA",
     "pais": "COLOMBIA",
-    "claseLibreta": "SEGUNDA CLASE",
-    "numeroLibreta": "71582060",
-    "distritoMilitar": "55",
+    "claseLibreta": "PRIMERA CLASE",
+    "numeroLibreta": "79080305287",
+    "distritoMilitar": "23",
     "educacionFormal": [
       {
-        "institucion": "UNIVERSIDAD NACIONAL DE COLOMBIA",
-        "titulo": "ECONOMISTA",
+        "institucion": "UNIVERSIDAD DE NARIÑO",
+        "titulo": "ABOGADO",
         "pais": "COLOMBIA",
-        "fechaFin": "12/12/1986",
-        "fechaGrados": "12/12/1986"
-      },
-      {
-        "institucion": "SIN DATO",
-        "titulo": "BACHILLER",
-        "pais": "COLOMBIA",
-        "fechaFin": "18/12/1977",
-        "fechaGrados": "18/12/1977"
+        "fechaFin": "18/05/2007",
+        "fechaGrados": "27/06/2009"
       },
       {
         "institucion": "SIN DATO",
         "titulo": "BASICA SECUNDARIA",
         "pais": "COLOMBIA",
-        "fechaFin": "01/12/1975",
-        "fechaGrados": "01/12/1975"
+        "fechaFin": "29/06/1996",
+        "fechaGrados": "29/06/1996"
       }
     ],
     "educacionTrabajo": [
       {
-        "institucion": "UNVERSIDAD DEL ROSARIO",
-        "curso": "DIPLOMADO EN APROBACIÓN Y USO DE LA TEGNOLOGIA OFFICE 365",
-        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
-        "capacitacion": "VIRTUAL",
-        "fechaFin": "06/12/2021"
+        "institucion": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "curso": "DIPLOMADO EN CONTRATACIÓN ESTATAL",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "PRESENCIAL",
+        "fechaFin": ""
       },
       {
-        "institucion": "UNIVERSIDAD DE SANTANDER",
-        "curso": "DIPLOMADO EN ARQUITECTURA DE EXPEDIENTES ELECTRÓNICOS Y USO DE HERRAMIENTAS PARA SU IMPLEMENTACIÓN",
-        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
-        "capacitacion": "VIRTUAL",
-        "fechaFin": "10/10/2021"
+        "institucion": "UNIVERSIDAD DEL ROSARIO",
+        "curso": "DIPLOMADO EN CONTRATACIÓN PÚBLICA",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "PRESENCIAL",
+        "fechaFin": "30/09/2022"
       },
       {
-        "institucion": "SENA",
-        "curso": "TECNICO EN PLANIFICACION PARA LA CREACION Y GESTION DE EMPRESAS",
-        "modalidad": "EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO",
+        "institucion": "F & C Consultores",
+        "curso": "XIII CONGRESO NACIONAL DE DERECHO DISCIPLINARIO",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "PRESENCIAL",
+        "fechaFin": "20/05/2022"
+      },
+      {
+        "institucion": "Universidad del Rosario",
+        "curso": "Regimen Probatorio y Técnicas de Oralidad en Materia Disciplinaria",
+        "modalidad": "EDUCACIÓN INFORMAL",
         "capacitacion": "MIXTA",
-        "fechaFin": "07/11/2006"
+        "fechaFin": "10/11/2021"
+      },
+      {
+        "institucion": "F & C Consultores",
+        "curso": "Jornada de actualización virtual - Aspectos prácticos del Derecho Disicplinario",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "11/02/2021"
+      },
+      {
+        "institucion": "F & C Consultores",
+        "curso": "X CONGRESO NACIONAL DE DERECHO DISCIPLINARIO",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "16/09/2020"
+      },
+      {
+        "institucion": "F & C Consultores",
+        "curso": "IX CONGRESO NACIONAL DE DERECHO DISCIPLINARIO",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "PRESENCIAL",
+        "fechaFin": "24/05/2019"
+      },
+      {
+        "institucion": "POLITECNICO DE COLOMBIA",
+        "curso": "DIPLOMADO EN CONTRATACIÓN ESTATAL",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "04/11/2016"
+      },
+      {
+        "institucion": "CESJUL",
+        "curso": "DIPLOMADO EN SEGURIDAD SOCIAL Y PENSIONES",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "A DISTANCIA",
+        "fechaFin": "16/06/2015"
+      },
+      {
+        "institucion": "POLITECNICO DE COLOMBIA",
+        "curso": "DIPLOMADO EN LEGISLACIÓN DE SALUD",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "VIRTUAL",
+        "fechaFin": "27/02/2015"
+      },
+      {
+        "institucion": "COLOMBIANA DE INFORMATICA",
+        "curso": "CONOCIMIENTOS ACADEMICOS INFORMATICA BASICA E INTERNET",
+        "modalidad": "EDUCACIÓN INFORMAL",
+        "capacitacion": "PRESENCIAL",
+        "fechaFin": "02/06/2010"
       }
     ],
     "educacionIdiomas": [
       {
         "lenguaje": "INGLÉS",
         "conversacion": "REGULAR",
-        "lectura": "REGULAR",
+        "lectura": "BIEN",
         "redaccion": "REGULAR",
         "nativa": false
       }
@@ -78,26 +127,165 @@
       {
         "tipo": "PUBLICA",
         "nombre": "Nombre de la EntidadSERVICIO NACIONAL DE APRENDIZAJE",
-        "dependencia": "A NIVEL NACIONAL",
-        "cargo": "INSTRUCTOR",
-        "fechaIngreso": "01/02/2005",
+        "dependencia": "AREA DE DEFENSA JUDICIAL",
+        "cargo": "LIDER DE PROCESO",
+        "fechaIngreso": "30/11/2022",
         "fechaFin": "Laborando Actualmente"
-      }
-    ],
-    "experienciaDocente": [
+      },
       {
-        "institucion": "SERVICIO NACIONAL DE APRENDIZAJE-SENA-",
-        "nivel": "",
-        "area": "ECONOMIA, ADMINISTRACION, CONTADURIA Y AFINES",
-        "pais": "COLOMBIA",
-        "fechaIngreso": "01/02/2005",
-        "fechaFin": "Laborando Actualmente"
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la EntidadSERVICIO NACIONAL DE APRENDIZAJE",
+        "dependencia": "DIRECCION JURIDICA",
+        "cargo": "SUSTANCIADOR",
+        "fechaIngreso": "30/06/2022",
+        "fechaFin": "29/11/2022"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la EntidadSERVICIO NACIONAL DE APRENDIZAJE",
+        "dependencia": "OFICINA DE CONTROL DISCIPLINARIO INTERNO",
+        "cargo": "SUSTANCIADOR",
+        "fechaIngreso": "01/03/2019",
+        "fechaFin": "30/06/2022"
+      },
+      {
+        "tipo": "PRIVADA",
+        "nombre": "Nombre de la EntidadOFICINA DE ABOGADO LITIGANTE",
+        "dependencia": "ABOGADO - LITIGANTE",
+        "cargo": "ABOGADO LITIGASSNTE",
+        "fechaIngreso": "10/02/2010",
+        "fechaFin": "04/07/2017"
+      },
+      {
+        "tipo": "PRIVADA",
+        "nombre": "Nombre de la EntidadOFICINA DE ABOGADO LITIGANTE",
+        "dependencia": "ABOGADO - LITIGANTE",
+        "cargo": "ABOGADO DEFENSA JURICA",
+        "fechaIngreso": "12/04/2010",
+        "fechaFin": "16/04/2012"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "AUXILIAR",
+        "fechaIngreso": "27/10/2008",
+        "fechaFin": "19/12/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "OFICIAL MAYOR",
+        "fechaIngreso": "20/10/2008",
+        "fechaFin": "26/10/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "AUXILIAR",
+        "fechaIngreso": "15/10/2008",
+        "fechaFin": "19/10/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "OFICIAL MAYOR",
+        "fechaIngreso": "02/10/2008",
+        "fechaFin": "14/10/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "AUXILIAR",
+        "fechaIngreso": "01/09/2008",
+        "fechaFin": "01/10/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "OFICIAL MAYOR",
+        "fechaIngreso": "18/07/2008",
+        "fechaFin": "31/08/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "AUXILIAR",
+        "fechaIngreso": "15/07/2008",
+        "fechaFin": "17/07/2008"
+      },
+      {
+        "tipo": "PUBLICA",
+        "nombre": "Nombre de la Entidad",
+        "dependencia": "",
+        "cargo": "AUXILIAR ADMINISTRATIVO",
+        "fechaIngreso": "01/09/2007",
+        "fechaFin": "01/04/2008"
       }
     ],
-    "documentosAdicionales": [],
-    "logrosYManejoDeRecursos": [],
+    "experienciaDocente": [],
+    "documentosAdicionales": [
+      {
+        "tipo": "REGISTRO CIVIL",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - REGISTRO CIVIL"
+      },
+      {
+        "tipo": "PASADO JUDICIAL",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - PASADO JUDICIAL"
+      },
+      {
+        "tipo": "EDUCACION COMPLEMENTARIA O NO FORMAL",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - EDUCACIÓN COMPLEMENTARIA O NO FORMAL"
+      },
+      {
+        "tipo": "CERTIFICADO SOBRE ANTECEDENTES FISCALES",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - CERTIFICADO SOBRE ANTECEDENTES FISCALES"
+      },
+      {
+        "tipo": "CERTIFICADO SOBRE ANTECEDENTES DISCIPLINARIOS",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - CERTIFICADO SOBRE ANTECEDENTES DISCIPLINARIOS"
+      },
+      {
+        "tipo": "CERTIFICADO ANTECEDENTES ABOGADO",
+        "descripcion": "TIPOS DE IDENTIFICACIÓN - CERTIFICADO ANTECEDENTES ABOGADO"
+      }
+    ],
+    "logrosYManejoDeRecursos": [
+      {
+        "nombreEntidad": "OFICINA DE ABOGADO LITIGANTE",
+        "empleadosOrganizacion": "",
+        "empleadosACargo": ""
+      },
+      {
+        "nombreEntidad": "OFICINA DE ABOGADO LITIGANTE",
+        "empleadosOrganizacion": "",
+        "empleadosACargo": ""
+      }
+    ],
     "publicaciones": [],
-    "evaluacionesDeDesempenno": [],
+    "evaluacionesDeDesempenno": [
+      {
+        "nombreEntidad": "OFICINA DE ABOGADO LITIGANTE",
+        "escalaCalificacion": "",
+        "calificacionObtenida": ""
+      },
+      {
+        "nombreEntidad": "OFICINA DE ABOGADO LITIGANTE",
+        "escalaCalificacion": "",
+        "calificacionObtenida": ""
+      },
+      {
+        "nombreEntidad": "SERVICIO NACIONAL DE APRENDIZAJE",
+        "escalaCalificacion": "",
+        "calificacionObtenida": ""
+      }
+    ],
     "premiosYReconocimientos": [],
     "participacionEnProyectos": [],
     "participacionEnCorporaciones": []
