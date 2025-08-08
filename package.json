@@ -2,11 +2,14 @@
   "name": "sigepbot",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "type": "module",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "postinstall": "npx playwright install --with-deps"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "devDependencies": {
     "@playwright/test": "^1.53.2",
     "@types/node": "^22.13.14",
