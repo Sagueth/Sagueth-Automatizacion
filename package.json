@@ -4,7 +4,7 @@
   "main": "src/server.ts",
   "type": "module",
   "scripts": {
-    "start": "echo 'Contenedor iniciado correctamente'",
+    "start": "node index.js",
     "run:spec": "npx playwright test tests/$SPEC_FILE --project=chromium",
     "postinstall": "npx playwright install"
   },
