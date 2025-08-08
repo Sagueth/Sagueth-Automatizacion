@@ -1,17 +1,14 @@
-# Usa la imagen oficial de Playwright con dependencias del sistema incluidas
-FROM mcr.microsoft.com/playwright:v1.53.2-focal
+# Usa la versión más reciente disponible compatible
+FROM mcr.microsoft.com/playwright:v1.53.1-jammy
 
-# Crea el directorio de la app
+# Crea el directorio de trabajo
 WORKDIR /app
 
-# Copia los archivos del proyecto
+# Copia los archivos necesarios
 COPY . .
 
-# Instala las dependencias
+# Instala dependencias
 RUN npm install
 
-# (Opcional) Si usas TypeScript y necesitas compilar
-# RUN npx tsc
-
-# Comando para correr la prueba automáticamente (puedes cambiarlo si quieres otra .spec.ts)
-CMD ["npx", "playwright", "test", "tests/validar.spec.ts"]
+# Comando por defecto (puedes modificar según el spec a ejecutar)
+CMD ["npx", "playwright", "test", "tests/validar.spec.ts", "--project=chromium"]
